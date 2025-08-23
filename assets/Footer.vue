@@ -40,10 +40,10 @@ export default {
   name: "Footer",
   data() {
     return {
-      homeUrl: "https://pan.307986.xyz",
-      blogUrl: "https://pan.307986.xyz",
-      githubUrl: "https://pan.307986.xyz",
-      emailUrl: "https://pan.307986.xyz"
+      homeUrl: "",
+      blogUrl: "",
+      githubUrl: "",
+      emailUrl: ""
     };
   }
 };
